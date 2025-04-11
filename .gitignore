@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+Redis-x64-5.0.14.1/
+
+# IDE & OS specific
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python & Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# Docker
+*.pid
+*.db
+*.sqlite3
+
+
+
+# Cache & build
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Streamlit cache
+.streamlit/
+
+# PyInstaller
+*.spec
+
+# Celery beat schedule and PID files
+celerybeat-schedule
+celerybeat.pid
+
+# Coverage and test
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+.pytest_cache/
+
+# Node (if any frontend tools)
+node_modules/
+npm-debug.log
+
+# Other
+*.bak
+*.swp
