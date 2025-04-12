@@ -210,6 +210,4 @@ services:
 
 ---
 
-## 📄 License
 
-MIT License © 2025 K.V. Chaitanya
