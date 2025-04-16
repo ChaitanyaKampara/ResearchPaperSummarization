@@ -25,7 +25,8 @@ This system uses **FastAPI** and **Celery** for backend orchestration, **Streaml
 ![Frontend](./images/frontend.jpg)
 ![Implementation](./images/working.jpg)
 ![Swagger Documentation](./images/swagger.jpg)
-
+![Implementation](![Uploading image.png…]()
+)
 
 ## 🧱 Project Structure
 
